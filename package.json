@@ -1,0 +1,16 @@
+{
+    "name": "postcss-indonesian-stylesheets",
+    "version": "0.0.1",
+    "description": "PostCSS plugin for writing CSS in Indonesian Language",
+    "keywords": ["postcss", "css", "postcss-plugin", "indonesia", "indonesian", "indonesian-stylesheets"],
+    "author": "Ariona, Rian <rian@ariona.net>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/ariona/postcss-indonesian-stylesheets.git"
+    },
+    "dependencies": {
+        "postcss": "^4.1.5"
+    },
+    "scripts": { }
+}
