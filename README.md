@@ -36,7 +36,7 @@ Plugin [PostCSS] buat nulis CSS pake bahasa Indonesia
 
 Clone atau Download, simpan di folder `node_modules` dalam **project** kamu. Lalu masukkan ke plugin postCSS nya.
 ```js
-postcss([ require('postcss-australian-stylesheets') ])
+postcss([ require('postcss-indonesian-stylesheets') ])
 ```
 
 ## Property yang sudah diterjemahin
