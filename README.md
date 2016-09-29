@@ -41,6 +41,7 @@ postcss([ require('postcss-australian-stylesheets') ])
 
 ## Property yang sudah diterjemahin
 `Ctrl+F` / `Cmd+F` aja ya buat nyari padanan katanya:
+
 Property | Indonesia
 --- | ---
 background-color | warna-latar
